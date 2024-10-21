@@ -37,7 +37,6 @@ No other technologies (CSS, JavaScript, etc.) were used, as the focus was purely
 ## Structure
 
 Here’s the structure of the project:
-    ```bash
 
     ├── index.html 
     └── recipes 
